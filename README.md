@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Ricardo Teixeira ✌️
-<h3>Tenho 21 anos e sempre fui apaixonado por tecnologia e desenvolvimento, e me encontrei
+<h3>Tenho 22 anos e sempre fui apaixonado por tecnologia e desenvolvimento, e me encontrei
 muito em programação. Desde então procuro me aperfeiçoar cada vez mais na área de
 informática em geral, mas no momento com preferência Desenvolvimento Web.</h3>
 
